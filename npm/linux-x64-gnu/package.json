@@ -15,6 +15,7 @@
   "engines": {
     "node": ">= 10"
   },
+  "repository": "https://github.com/ezioda004/random-fill-sync",
   "libc": [
     "glibc"
   ]
