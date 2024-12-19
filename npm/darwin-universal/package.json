@@ -1,0 +1,15 @@
+{
+  "name": "@node-rust/random-fill-sync-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "random-fill-sync.darwin-universal.node",
+  "files": [
+    "random-fill-sync.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

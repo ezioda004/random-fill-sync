@@ -1,0 +1,18 @@
+{
+  "name": "@node-rust/random-fill-sync-win32-arm64-msvc",
+  "version": "0.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "random-fill-sync.win32-arm64-msvc.node",
+  "files": [
+    "random-fill-sync.win32-arm64-msvc.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

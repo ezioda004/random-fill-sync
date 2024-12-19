@@ -1,0 +1,18 @@
+{
+  "name": "@node-rust/random-fill-sync-linux-arm-musleabihf",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "random-fill-sync.linux-arm-musleabihf.node",
+  "files": [
+    "random-fill-sync.linux-arm-musleabihf.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

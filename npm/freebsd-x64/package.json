@@ -1,0 +1,18 @@
+{
+  "name": "@node-rust/random-fill-sync-freebsd-x64",
+  "version": "0.0.0",
+  "os": [
+    "freebsd"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "random-fill-sync.freebsd-x64.node",
+  "files": [
+    "random-fill-sync.freebsd-x64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
