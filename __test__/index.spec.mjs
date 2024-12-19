@@ -1,5 +1,5 @@
 import test from 'ava';
-import { randomFillSync, randomFillSyncNew } from './index.js';
+import { randomFillSync, randomFillSyncNew } from '../index';
 import crypto from 'node:crypto';
 
 // Helper function to check if the buffer is filled with non-zero values
